@@ -1,0 +1,19 @@
+:root {
+  color-scheme: light;
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f7f8fa;
+  color: #121212;
+}
+
+main {
+  max-width: 720px;
+  margin: 0 auto;
+}
